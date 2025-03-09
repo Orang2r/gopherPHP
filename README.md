@@ -22,3 +22,10 @@
 git clone https://github.com/yourrepo/gopher-ssrf-generator.git
 cd gopher-ssrf-generator
 pip3 install -r requirements.txt
+
+📌 参数说明
+参数	必选	说明
+--host	是	目标主机IP或域名
+--port	否	目标端口（默认70）
+--data	是	TCP数据字符串或文件路径
+--type	是	生成类型：curl或file
