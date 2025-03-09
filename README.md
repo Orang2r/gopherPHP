@@ -16,14 +16,6 @@
 - **文件输入**  
   支持从`.txt`文件读取复杂TCP数据（如HTTP请求头、Redis命令流）
 
-## 📦 快速安装
-
-```bash
-git clone https://github.com/yourrepo/gopher-ssrf-generator.git
-cd gopher-ssrf-generator
-pip3 install -r requirements.txt
-```
-
 ## 📌 核心参数说明
 
 ### 必选参数
