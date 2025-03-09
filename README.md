@@ -47,6 +47,7 @@ pip3 install -r requirements.txt
 1. **捕获原始请求**
    - 使用Burp Suite拦截POST请求
    - 复制完整TCP数据流（包含Header和Body）保存为`request.txt`
+     
 ![image](https://github.com/user-attachments/assets/614dbfcc-19b4-4c31-9d4e-9f22d6f7d4de)
 
 2. **生成攻击Payload**
@@ -60,4 +61,5 @@ pip3 install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/66cfc71e-190e-4624-8d4b-af819f106891)
 
 3. **得到flag**
+   
 ![image](https://github.com/user-attachments/assets/56ed43cd-5476-4c33-b180-0aa33d0472ec)
