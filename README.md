@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 
 ### 案例：CTFHub SSRF POST请求
 #### 操作流程
-1. **捕获原始请求**
+1. **捕获POST请求**
    - 使用Burp Suite拦截POST请求
    - 复制完整TCP数据流（包含Header和Body）保存为`request.txt`
      
