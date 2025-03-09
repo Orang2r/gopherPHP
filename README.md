@@ -52,7 +52,7 @@ pip3 install -r requirements.txt
 
 2. **生成攻击Payload**
    ```bash
-   python3 gopher_gen.py \
+   python3 gopherPHP.py \
        --host 127.0.0.1 \
        --port 80 \
        --data request.txt \
