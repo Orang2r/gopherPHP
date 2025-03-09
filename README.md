@@ -59,8 +59,7 @@ pip3 install -r requirements.txt
        --type curl
    ```
 
-![image](https://github.com/user-attachments/assets/66cfc71e-190e-4624-8d4b-af819f106891)
-
+![image](https://github.com/user-attachments/assets/e6a75581-3ce6-490c-a508-b99d3c4a1eee)
 3. **得到flag**
    
 ![image](https://github.com/user-attachments/assets/56ed43cd-5476-4c33-b180-0aa33d0472ec)
